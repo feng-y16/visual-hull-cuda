@@ -1,1 +1,1 @@
-# visualhull-cuda
+# visual-hull-cuda
